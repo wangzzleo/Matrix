@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/wangzzleo/Matrix)
+--
 # Matrix
 使用面向对象语言来描述地球生态圈，我称其为母体，来自黑客帝国。
 
